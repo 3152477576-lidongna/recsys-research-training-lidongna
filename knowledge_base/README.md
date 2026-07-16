@@ -4,12 +4,12 @@
 
 ## 知识库目录
 
-- [数学基础](./math.md)
-- [Python与PyTorch基础](./python.md)
-- [机器学习与深度学习基础](./machine_learning.md)
-- [推荐系统](./recsys.md)
-- [论文阅读](./paper_reading.md)
-- [工具使用](./tools.md)
+- [[math]]
+- [[python]]
+- [[machine_learning]]
+- [[recsys]]
+- [[paper_reading]]
+- [[tools]]
 
 ## 更新原则
 
